@@ -1,3 +1,11 @@
+
+
+
+## 🌐 Socials:
+(https://your-image-link.com/path-to-image.png)](https://your-social-media-link.com)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mana Atef ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mana Atef ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mana Atef ) 
+
+
 # 💫 About Me:
 🔭 I’m currently working on Landing a frontend developer role and improving my skills with Node.js.<br><br>👯 I’m looking to collaborate on Frontend projects, particularly those involving React, or any exciting web development initiatives.<br><br>🤝 I’m looking for help with Node.js and full-stack development, as I transition into backend development.<br><br>🌱 I’m currently learning Node.js and how to integrate it with frontend technologies to build full-stack applications.<br><br>💬 Ask me about Anything related to HTML, CSS, JavaScript, React, or frontend development in general!<br><br>⚡ Fun fact I’m always experimenting with new web design trends and tools to improve my development workflow.
 
