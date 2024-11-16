@@ -4,6 +4,7 @@
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/manaatef13)
 
 
+[![Twitter](https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg)](https://x.com/manaatef13)
 
 ## 🌐 Socials:
 (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDy_BNkPSR9l2X5I074rtb6j-z-i2Iz2yblw&s)](https://your-social-media-link.com)
