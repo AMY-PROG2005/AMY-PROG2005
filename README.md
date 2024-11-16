@@ -1,4 +1,5 @@
-[![Twitter](https://github.com/your-username/your-repo/blob/main/assets/images/social.png)](https://twitter.com/yourusername)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url)
+
 
 
 
