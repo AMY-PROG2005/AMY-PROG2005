@@ -1,14 +1,8 @@
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmanaatef13)
 
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/manaatef13)
-
-
-[![Twitter]([https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjr0ta4KV6dCZNPlrGLvt5S6YV52T-DPV2w&s))](https://x.com/manaatef13)
 
 ## 🌐 Socials:
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDy_BNkPSR9l2X5I074rtb6j-z-i2Iz2yblw&s)](https://your-social-media-link.com)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mana Atef ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mana Atef ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mana Atef ) 
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmanaatef13)
 
 
 # 💫 About Me:
