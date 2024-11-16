@@ -1,6 +1,7 @@
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmanaatef13)
 
 
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/manaatef13)
 
 
 
